@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+/* .cont{
+  display: flex;
+  flex-direction: column;
+} */
+.CardContainer{
+  position: center;
+  padding: 20px;
+  height: 120px;
+  width: 400px;
+}
